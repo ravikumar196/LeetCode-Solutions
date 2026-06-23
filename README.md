@@ -57,26 +57,6 @@ This repository serves as a centralized log of my data engineering analytics pro
 
 ## 🗄️ Interactive LeetCode Problem Directory
 
-> Click on the toggle switch panel below to immediately view specific, verifiable source codes for individual database problems.
-
-<details open>
-<summary>📂 <strong>Click to Hide / Expand SQL Database Problem Index</strong></summary>
-<br/>
-
-| Problem ID & Title | Direct Production Script Link | Core Database Concept |
-| :--- | :--- | :--- |
-| **0197** — Rising Temperature | [📁 View Solution](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/0197-rising-temperature) | Self-Joins & Date Subtraction Logic |
-| **0584** — Find Customer Referee | [📁 View Solution](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/0584-find-customer-referee) | Conditional Filters & Null Value Sorting (`IS NULL`) |
-| **0595** — Big Countries | [📁 View Solution](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/0595-big-countries) | Performance Index Masking via Quick `OR` / `UNION` |
-| **1068** — Product Sales Analysis I | [📁 View Solution](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) | Foreign Key Mapping via Relational `INNER JOIN` |
-| **1148** — Article Views I | [📁 View Solution](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/1148-article-views-i) | De-duplicating Record Ingestions via `DISTINCT` Aggregates |
-| **1378** — Replace Employee ID | [📁 View Solution](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) | Structural Left Exclusions using `LEFT JOIN` |
-| **1581** — Customer Visits w/o Transactions | [📁 View Solution](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) | Tracking Unmatched Logs via `IS NULL` Filtering |
-| **1683** — Invalid Tweets | [📁 View Solution](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/1683-invalid-tweets) | Length Metrics Check Using Character Ingestion Substring Counts |
-| **1757** — Recyclable and Low Fat Products | [📁 View Solution](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) | Multi-Attribute Row Filtering via Boolean Bitwise Layouts |
-
-</details>
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
