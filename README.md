@@ -78,6 +78,11 @@ This repository serves as a centralized log of my data engineering analytics pro
 </details>
 
 <!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1667-fix-names-in-a-table](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
 
 ---
