@@ -1,2 +1,23 @@
-# LeetCode-Solutions
-Problem-solving consistency, data structures, and algorithmic optimization.
+# ⚙️ Data Pipeline & Algorithmic Solutions (SQL, Pandas, & Python)
+
+## 📌 Professional Overview
+This repository serves as a centralized log of my data engineering and core problem-solving journey. It contains optimized scripts mapping out end-to-end data workflows—covering algorithmic data transformations in **Python**, high-performance matrix restructuring using **Pandas**, and relational logic processing in **Advanced SQL**.
+
+---
+
+## 📊 Pipeline & Problem Tracking Matrix
+
+| Stack / Tool | Topic / Category | Core Approach & Logic Pattern | Technical Link |
+| :---: | :--- | :--- | :---: |
+| 🗄️ **SQL** | Analytical Windowing | `DENSE_RANK()` partitioning over multi-table joins | [View Query](./SQL/Regional_Rank.sql) |
+| 🐼 **Pandas** | Data Preprocessing | Data Cleansing Pipeline, type casting, & outlier drops | [View Script](./Pandas/Data_Cleaning.py) |
+| 🐍 **Python** | Arrays & Hashing | Two-Pass Hash Map $O(N)$ lookup optimization | [View Code](./Python/Two_Sum.py) |
+---
+
+## 🛠️ Technical Focus & Patterns Covered
+* **Algorithmic Data Optimization:** Hash maps for fast lookups, sliding window boundaries, and optimal $O(N)$ runtime logic.
+* **Vectorized Data Preprocessing:** Utilizing Pandas schemas to remove relational anomalies, handle missing rows, and accelerate batch transforms.
+* **Advanced Database Querying:** Structuring transactional layers with clean Common Table Expressions (CTEs) and specialized analytical window partitions.
+
+---
+🔗 **Return to Main Portfolio:** [@Ravikumar196](https://github.com/Ravikumar196) | Connect via **[LinkedIn](https://www.linkedin.com/in/ravi-kumar-13b322236/)**
