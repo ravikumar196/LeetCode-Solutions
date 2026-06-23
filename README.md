@@ -83,6 +83,7 @@ This repository serves as a centralized log of my data engineering analytics pro
 |  |
 | ------- |
 | [1667-fix-names-in-a-table](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
+| [1757-recyclable-and-low-fat-products](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
 
 ---
