@@ -1,4 +1,4 @@
-# ⚙️ Data Pipeline & Algorithmic Solutions (SQL, Pandas, & Python)
+# ⚙️ Leetcode :- Data Pipeline & Algorithmic Solutions (SQL, Pandas, & Python)
 
 ## 📌 Professional Overview
 This repository serves as a centralized log of my data engineering and core problem-solving journey. It contains optimized scripts mapping out end-to-end data workflows—covering algorithmic data transformations in **Python**, high-performance matrix restructuring using **Pandas**, and relational logic processing in **Advanced SQL**.
