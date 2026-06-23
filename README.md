@@ -21,3 +21,11 @@ This repository serves as a centralized log of my data engineering and core prob
 
 ---
 🔗 **Return to Main Portfolio:** [@Ravikumar196](https://github.com/Ravikumar196) | Connect via **[LinkedIn](https://www.linkedin.com/in/ravi-kumar-13b322236/)**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
