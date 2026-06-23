@@ -9,7 +9,7 @@ This repository serves as a centralized log of my data engineering and core prob
 
 | Stack / Tool | Topic / Category | Core Approach & Logic Pattern | Technical Link |
 | :---: | :--- | :--- | :---: |
-| 🗄️ **SQL** | Analytical Windowing | `DENSE_RANK()` partitioning over multi-table joins | [View Query](./SQL/Regional_Rank.sql) |
+| 🗄️ **SQL** | Analytical Windowing | `DENSE_RANK()` partitioning over multi-table joins | [View Query](https://github.com/ravikumar196/LeetCode-Solutions/tree/main/LeetCode_SQL) |
 | 🐼 **Pandas** | Data Preprocessing | Data Cleansing Pipeline, type casting, & outlier drops | [View Script](./Pandas/Data_Cleaning.py) |
 | 🐍 **Python** | Arrays & Hashing | Two-Pass Hash Map $O(N)$ lookup optimization | [View Code](./Python/Two_Sum.py) |
 ---
