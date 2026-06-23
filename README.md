@@ -82,6 +82,7 @@ This repository serves as a centralized log of my data engineering analytics pro
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [1667-fix-names-in-a-table](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ravikumar196/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
